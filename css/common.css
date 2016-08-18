@@ -1,0 +1,99 @@
+/*texto*/
+.text-center{
+	text-align: center;
+}
+.orange{
+	color: orange;
+}
+.white{
+	color: #ffffff;
+}
+/*estilos*/
+.logo{
+	width: 20em;
+}
+.tres{
+	width: 100%;
+}
+.dos{
+	background-color:  #0F0008;
+	width: 23.5%;
+	display: inline-block;
+}
+.img2{
+	width: 50%
+}
+.img3{
+	width: 30%;
+}
+.fr{
+	float: right;
+}
+.black{
+	background-color:  #0F0008;
+	width: 100%;
+}
+/* backgrounds*/
+.thumbnail{
+	background-color: black;
+}
+.purple{
+	background-color: #1A000D;
+}
+.b3{
+	background-image: url("../image/image2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 84%;
+	height: 24em;
+}
+.negro{
+	background-color: black;
+	opacity: 0.3%;
+	height: 6em;
+	width: 40%;
+}
+/*margins y padds*/
+.mt{
+	margin-top: 20px;
+}
+.mt2{
+	margin-top: -55em;
+}
+.mt3{
+	margin-top: 10em;
+}
+.mt4{
+	margin-top: 3em;
+}
+.mt5{
+	margin-top: 50%;
+}
+.mt6{
+	margin-top:5%;
+}
+.ml{
+	margin-left: 24em;
+}
+.ml2{
+	margin-left: 5em;
+}
+.ml4{
+	margin-left: 8em;
+}
+.ml3{
+	margin-left: 18em;
+}
+.pd{
+	padding-top: 3em;
+}
+.mr{
+	margin-right: -10%;
+}
+.mr2{
+	margin-right: 10%;
+}
+.mb{
+	margin-bottom: 20%;
+}
